@@ -1,0 +1,447 @@
+[
+  {
+    "title": "CHAMP DE JEU & EQUIPEMENT",
+    "word": "Champ de jeu",
+    "definition": "la partie de l'eau officiellement marquée comme le lieu de l'action d'un match de water-polo tel que décrit dans l'annexe 4."
+  },
+  {
+    "title": "CHAMP DE JEU & EQUIPEMENT",
+    "word": "Table des officiels",
+    "definition": "L'endroit désigné où les autres officiels nécessaires et les personnes autorisées exercent leurs responsabilités au cours d'un match."
+  },
+  {
+    "title": "CHAMP DE JEU & EQUIPEMENT",
+    "word": "Remplacement volant",
+    "definition": "La capacité d'une équipe à échanger des joueurs pendant le jeu à partir de la zone de remplacement volant."
+  },
+  {
+    "title": "CHAMP DE JEU & EQUIPEMENT",
+    "word": "Zone de remplacement volant",
+    "definition": "La zone désignée par les Règles sur le côté du champ de jeu où les remplacements volants peuvent avoir lieu."
+  },
+  {
+    "title": "CHAMP DE JEU & EQUIPEMENT",
+    "word": "But (définition A)",
+    "definition": "Le résultat lorsque le ballon franchit entièrement la ligne de but, au-delà de la ligne avant des poteaux de but et sous la barre transversale."
+  },
+  {
+    "title": "CHAMP DE JEU & EQUIPEMENT",
+    "word": "Ligne de but",
+    "definition": "l'extrémité du champ de jeu, formée par la face avant du poteau de but (7.1)."
+  },
+  {
+    "title": "CHAMP DE JEU & EQUIPEMENT",
+    "word": "Zone de but",
+    "definition": "C'est un rectangle qui s'étend sur 2 mètres depuis les côtés extérieurs des poteaux de but jusqu'à la ligne des 2 mètres opposée à la ligne de but. Dans cette zone, les joueurs attaquants ne doivent pas pénétrer sans être en possession du ballon, sauf s'ils se trouvent derrière la ligne du ballon."
+  },
+  {
+    "title": "CHAMP DE JEU & EQUIPEMENT",
+    "word": "Ligne de 5 mètre",
+    "definition": "C'est la ligne à partir de laquelle le coup de pénalty doit être exécuté."
+  },
+  {
+    "title": "CHAMP DE JEU & EQUIPEMENT",
+    "word": "Zone de 6 mètre",
+    "definition": "c'est une zone située à moins de 6 mètres de la ligne de but où certaines fautes, conformément aux règles des pénalités, deviennent des fautes de pénalty."
+  },
+  {
+    "title": "CHAMP DE JEU & EQUIPEMENT",
+    "word": "Ligne de mi-distance",
+    "definition": "Ligne qui divise la longueur du terrain de jeu en deux moitiés égales en son point médian."
+  },
+  {
+    "title": "CHAMP DE JEU & EQUIPEMENT",
+    "word": "But",
+    "definition": "Structure dans laquelle le ballon doit pénétrer complètement pour marquer. (Annexe 4.2)."
+  },
+  {
+    "title": "ÉQUIPES ET REMPLAÇENTS",
+    "word": "Équipe",
+    "definition": "équipe de joueurs de water-polo telle que décrite à la section VI."
+  },
+  {
+    "title": "ÉQUIPES ET REMPLAÇENTS",
+    "word": "Joueur",
+    "definition": "membre individuel d'une équipe de water-polo."
+  },
+  {
+    "title": "ÉQUIPES ET REMPLAÇENTS",
+    "word": "Gardien de but",
+    "definition": "membre individuel d'une équipe, portant un bonnet rouge, dont le rôle principal est d'empêcher le ballon de pénétrer dans le but. Un gardien de but remplaçant doit porter un bonnet de 2 à 14, qui doit être rouge. Dans le cas d'un troisième gardien nommé pour un tournoi spécifique où 15 joueurs ou plus sont autorisés sur la liste de l'équipe, le bonnet numéro 15 doit être rouge et spécifiquement pour le troisième gardien."
+  },
+  {
+    "title": "ÉQUIPES ET REMPLAÇENTS",
+    "word": "Remplaçant",
+    "definition": "Joueur entrant sur le terrain pour remplacer un joueur déjà sur le terrain ou un joueur exclu."
+  },
+  {
+    "title": "ÉQUIPES ET REMPLAÇENTS",
+    "word": "Réserve",
+    "definition": "Un membre de l'équipe qui ne joue pas à ce moment-là."
+  },
+  {
+    "title": "ÉQUIPES ET REMPLAÇENTS",
+    "word": "Zone de remplacement latéral désignée",
+    "definition": "est la « zone de remplacement volant »."
+  },
+  {
+    "title": "ÉQUIPES ET REMPLAÇENTS",
+    "word": "Zone de retour d'exclusion",
+    "definition": "Endroit d'où un joueur ou un remplaçant revient sur le terrain de jeu après une exclusion."
+  },
+  {
+    "title": "ÉQUIPES ET REMPLAÇENTS",
+    "word": "Avantage",
+    "definition": "La possibilité pour un joueur attaquant et/ou l'équipe attaquante de continuer à jouer le ballon afin de générer une opportunité de marquer. Les arbitres doivent veiller à ce que l'équipe attaquante puisse conserver son avantage."
+  },
+  {
+    "title": "ÉQUIPES ET REMPLAÇENTS",
+    "word": "Carton rouge",
+    "definition": "Signal de l'arbitre indiquant l'exclusion du reste du match d'un joueur, d'un entraîneur ou d'un officiel de l'équipe."
+  },
+  {
+    "title": "ÉQUIPES ET REMPLAÇENTS",
+    "word": "Carton jaune",
+    "definition": "Signal d'avertissement de l'arbitre à l'entraîneur pour comportement inapproprié ou discipline de banc insuffisante, ou pour simulation répétée et jeu déloyal persistant d'une équipe."
+  },
+  {
+    "title": "ÉQUIPES ET REMPLAÇENTS",
+    "word": "Joueur fautif",
+    "definition": "Un joueur qui commet une faute conformément aux règles."
+  },
+  {
+    "title": "ARBITRE ET OFFICIELS",
+    "word": "Arbitre assistant vidéo – VAR",
+    "definition": "Technologie vidéo et arbitre assistant, que l'arbitre peut utiliser pour prendre une décision finale après avoir examiné une situation décrite à l'annexe 7 - Protocole VAR ou après une « contestation de décision » par l'entraîneur dans les circonstances décrites à l'annexe 10 - protocole de contestation. (Non-reprise dans ce règlement)"
+  },
+  {
+    "title": "ARBITRE ET OFFICIELS",
+    "word": "Arbitre",
+    "definition": "Un officiel responsable de la conduite du jeu avec des fonctions désignées fixées par les règles."
+  },
+  {
+    "title": "ARBITRE ET OFFICIELS",
+    "word": "Possibilité de jouer le ballon",
+    "definition": "Lorsque le joueur en possession du ballon est capable de continuer à jouer en mettant le ballon en action."
+  },
+  {
+    "title": "ARBITRE ET OFFICIELS",
+    "word": "Centre-avant",
+    "definition": "Joueur offensif dont la position principale se situe près de la ligne des 2 mètres de l'adversaire et généralement entre la largeur des poteaux de but."
+  },
+  {
+    "title": "ARBITRE ET OFFICIELS",
+    "word": "Centre-arrière",
+    "definition": "Un défenseur dont la responsabilité principale est de marquer l'attaquant central. (Voir centre-avant)."
+  },
+  {
+    "title": "ARBITRE ET OFFICIELS",
+    "word": "Juge de but ou arbitre assistant",
+    "definition": "Un officiel assis sur la ligne de but chargé d'aider l'arbitre à déterminer si le ballon est entré dans le but ou a franchi la ligne de but, y compris qui a touché le ballon en dernier, ainsi que de lancer un nouveau ballon selon les instructions de l'arbitre."
+  },
+  {
+    "title": "ARBITRE ET OFFICIELS",
+    "word": "Départ ou reprise",
+    "definition": "La reprise du jeu au début d'une période, après un but ou après que l'arbitre a demandé le ballon et interrompu le jeu."
+  },
+  {
+    "title": "DURÉE DU JEU",
+    "word": "Jeu effectif",
+    "definition": "Les équipes jouent quatre périodes, chaque période consistant en huit minutes de temps de jeu effectif, soit un total de 32 minutes. Le jeu effectif commence au début de chaque période, lorsqu'un joueur touche le ballon, s'arrête à chaque arrêt indiqué par l'arbitre ou chaque signal du chronomètre du temps de possession du ballon et se poursuit après chaque arrêt lorsque le joueur met le ballon en jeu conformément aux règles, tire ou passe le ballon."
+  },
+  {
+    "title": "DURÉE DU JEU",
+    "word": "Séance de tirs au but",
+    "definition": "Méthode permettant de déterminer le résultat définitif d'un match en cas d'égalité à la fin du temps réglementaire. La méthode est régie par l'annexe 6."
+  },
+  {
+    "title": "DURÉE DU JEU",
+    "word": "Arbitre attaquant",
+    "definition": "L'arbitre qui accorde la plus grande attention à la situation d'attaque devant le but à la droite de l'arbitre."
+  },
+  {
+    "title": "DURÉE DU JEU",
+    "word": "Arbitre défensif",
+    "definition": "L'arbitre qui contrôle la situation d'attaque à la gauche de l'arbitre. Cet arbitre maintient généralement une position qui n'est pas plus proche du but attaqué que le joueur de l'équipe attaquante le plus éloigné du but."
+  },
+  {
+    "title": "TEMPS-MORT",
+    "word": "Temps-mort",
+    "definition": "Un arrêt de jeu d'une minute à la disposition de l'équipe attaquante à tout moment, sauf lors d'un examen par la VAR. Chaque équipe a droit à deux temps morts par match."
+  },
+  {
+    "title": "TEMPS-MORT",
+    "word": "Temps-mort Illégal",
+    "definition": "Un temps mort demandé auquel l'équipe n'a pas droit."
+  },
+  {
+    "title": "TEMPS-MORT",
+    "word": "Possession du ballon",
+    "definition": "La possession du ballon est le fait qu'un joueur de l'une des équipes tient ou nage avec le ballon."
+  },
+  {
+    "title": "FAÇON DE MARQUER",
+    "word": "Mettre le ballon en jeu de manière visible",
+    "definition": "signifie que le ballon doit quitter la main du joueur qui le tient. Lancer le ballon de la main gauche à la main droite d'un joueur est considéré comme une mise en jeu."
+  },
+  {
+    "title": "FAÇON DE MARQUER",
+    "word": "Faire semblant (feinter, fixer)",
+    "definition": "Simuler un tir."
+  },
+  {
+    "title": "FAÇON DE MARQUER",
+    "word": "Engagement",
+    "definition": "Au début d'une période, le ballon est placé au milieu du terrain de jeu et, après le coup de sifflet signalant le début du match, les équipes sprintent vers le milieu de la piscine pour s'emparer du ballon."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Faux départ",
+    "definition": "Commencer le jeu de manière inappropriée, soit avant le signal de l'arbitre, soit en poussant ou en affectant l'alignement du but."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Faute",
+    "definition": "Une violation d'une règle entraînant l'arrêt du chronomètre de jeu et l'attribution d'un coup franc. Il existe deux types de fautes : • Les fautes physiques (contact physique d'un joueur empêchant un joueur adverse de poursuivre son mouvement) • Les fautes techniques (contre les règles, par exemple, faux départ ou reprise, frapper le ballon avec le poing fermé, les deux mains, etc.)"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Ballon sous l’eau",
+    "definition": "Faute ordinaire commise à l'encontre d'un joueur qui plonge le ballon sous l'eau lorsqu'il est attaqué par un adversaire ou dans l'intention de cacher le ballon à un adversaire."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Exclusion simultanée",
+    "definition": "Exclusion simultanée de deux joueurs d'équipes opposées."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Esprit du jeu",
+    "definition": "Caractéristique définissant le sport. Jouer dans l'esprit du jeu signifie jouer pour gagner tout en respectant ses coéquipiers, ses adversaires et le jeu lui-même. Il se définit par la compréhension des règles et par le fait de jouer avec intégrité et honnêteté."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Pousser",
+    "definition": "Utiliser la main, le bras, le pied ou une autre partie du corps pour pousser un adversaire afin d'obtenir un avantage."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Coup de pied",
+    "definition": "Un coup, une frappe ou une poussée énergique avec le pied sur le corps ou le visage d'un adversaire, ce qui constitue une faute personnelle."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Simulation",
+    "definition": "Faire semblant d'être victime d'une faute."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Forcer, conduire à",
+    "definition": "Mouvement offensif d'un joueur qui fait face à un adversaire et qui nage de façon agressive pour tenter de prendre une position avantageuse plus proche du but."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Passage en force",
+    "definition": "Un joueur qui se dirige vers le but, généralement à partir d'une position stationnaire face à un adversaire et qui tente de nager de manière agressive vers une position avantageuse plus proche du but."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Plaquer",
+    "definition": "Tenir, enfoncer, faire reculer ou gêner un joueur qui tient le ballon."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Faute offensive",
+    "definition": "Faute commise par un joueur attaquant entraînant un coup franc accordé à l'équipe en défense."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "word": "Tenir le ballon",
+    "definition": "Lever, porter ou toucher le ballon, à l'exclusion du dribble avec le ballon."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Entrée irrégulière",
+    "definition": "L'entrée d'un joueur dans le champ de jeu pendant le jeu sans respecter les règles."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Rentrée irrégulière",
+    "definition": "Entrée d'un remplaçant dans le champ de jeu pendant le déroulement du match, en violation des règles."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Faute d’exclusion",
+    "definition": "Faute par laquelle un joueur est exclu du jeu pour une période prescrite par les règles."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Faute de comportement",
+    "definition": "Tout comportement inapproprié, y compris le manque de respect envers un arbitre ou un adversaire, ainsi que le non-respect d'une instruction de l'arbitre."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Action violente",
+    "definition": "Action d'un joueur visant à causer du tort ou à blesser un autre joueur ou un officiel, qu'il y ait ou non contact."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Faute agressive",
+    "definition": "Comportement pouvant entraîner des blessures chez les adversaires. L'intention de ce type de fautes est de détruire et d'arrêter complètement l'avantage ou la progression du jeu ou d'un joueur, ou de provoquer l'adversaire. Il s'agit d'un jeu dangereux, sans intention claire de blesser l'adversaire, mais qui est généralement causé par les émotions."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Faute persistante",
+    "definition": "Fautes non autorisées commises par les joueurs en défense, qui arrêtent l'attaque. L'intention de ces fautes n'est pas de blesser un adversaire, mais de détruire le flux du jeu, l'avantage et la vitesse, ainsi que d'intimider l'adversaire."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Gêner",
+    "definition": "Obstruer le mouvement par des actes physiques non autorisés, comme tenir ou bloquer un adversaire."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Tenir un adversaire",
+    "definition": "Utiliser les mains, les bras ou les jambes pour tenir un adversaire dans l'intention de limiter ses mouvements."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Couler",
+    "definition": "Pousser un adversaire sous l'eau."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Tirer en arrière",
+    "definition": "Tirer un joueur adverse."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Interférer lors de l’exécution d’un coup franc, un but ou un tir de pénalty",
+    "definition": "perturber ou interférer pendant l'exécution d'un de ces lancers."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Mouvements disproportionnés",
+    "definition": "Effectuer un mouvement avec l'intention de frapper ou de donner un coup de pied, même si le joueur ne parvient pas à entrer en contact avec le ballon."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Frapper",
+    "definition": "Signifie donner un coup."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Faute tactique",
+    "definition": "Toute faute commise par un défenseur dans le but d'arrêter le flux du jeu avec l'intention d'enlever un avantage, en particulier la contre-attaque."
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "word": "Contre-attaque",
+    "definition": "La transition de l'équipe attaquante qui amène rapidement le ballon d'un bout à l'autre du terrain dans le but de marquer avant que l'équipe défensive ne puisse se mettre en position."
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "word": "Faute de pénalty",
+    "definition": "Toute faute commise dans les 6 mètres empêchant un but probable (10.2). En outre, une action violente (9.14) et le fait de retarder le jeu (10.10) peuvent entraîner un pénalty ainsi que 10.9."
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "word": "Situation d’un but probable",
+    "definition": "Situations dans lesquelles le joueur attaquant fait face au but et qu'il n'y a pas de défenseur entre le joueur attaquant et le gardien de but et que, sans faute, un but serait très probablement marqué. Il existe également des situations de but probable lorsque le but est vide et que le ballon est proche, ainsi que des exemples décrits dans le Manuel."
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "word": "Mauvaise passe",
+    "definition": "Une passe qui ne peut pas être atteinte par l'attaquant, que le joueur ait été victime d'une faute ou non. Il n'y a pas de sanction contre le défenseur dans le cas d'une mauvaise passe."
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "word": "Position avant sur un défenseur",
+    "definition": "Un joueur offensif établissant une position avantageuse, c'est-à-dire une position entre un joueur défensif et le but adverse."
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "word": "Retarder le jeu",
+    "definition": "Empêcher intentionnellement les joueurs attaquants de poursuivre l'action ou toute interférence contre l'esprit du jeu dans l'intention d'empêcher un but probable."
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "word": "Joueur illégal",
+    "definition": "Un joueur qui n'a pas le droit de participer au jeu."
+  },
+  {
+    "title": "COUPS FRANCS",
+    "word": "Coup franc",
+    "definition": "Méthode de remise en jeu du ballon après une faute ordinaire, une faute d'exclusion ou une reprise après un temps mort, un but, une blessure y compris un saignement, le remplacement d'un bonnet, l'appel de l'arbitre, la sortie du ballon du côté du terrain de jeu ou tout autre retard."
+  },
+  {
+    "title": "COUPS FRANCS",
+    "word": "Bloquer un tir ou une passe",
+    "definition": "Arrêter le vol du ballon avec la main, le bras ou le corps."
+  },
+  {
+    "title": "TIRS",
+    "word": "Lancer",
+    "definition": "Tout mouvement de la main libérant le ballon, avec l'intention de le mettre en jeu, de le passer ou de marquer."
+  },
+  {
+    "title": "TIRS",
+    "word": "Coup franc",
+    "definition": "La méthode pour remettre le ballon en jeu après une faute ou un arrêt de jeu."
+  },
+  {
+    "title": "TIRS",
+    "word": "Remise en jeu depuis le but",
+    "definition": "Le lancer accordé à l'équipe en défense tel que décrit à la règle 12."
+  },
+  {
+    "title": "TIRS",
+    "word": "Dribbler le ballon",
+    "definition": "Nager avec le ballon ou faire progresser le ballon en nageant. Un joueur qui dribble le ballon est en possession du ballon mais ne le tient pas."
+  },
+  {
+    "title": "TIRS",
+    "word": "Passer le ballon",
+    "definition": "Lancer le ballon d'un joueur à un coéquipier ou dans la zone contrôlée par un coéquipier. Lancer le ballon vers un coéquipier (ou pour soi-même) avec l'intention d'en garder le contrôle (par opposition à l'intention de marquer un but)."
+  },
+  {
+    "title": "CORNERS",
+    "word": "Corner",
+    "definition": "Tir accordé à l'équipe attaquante sur la ligne des 2 mètres du défenseur, comme décrit à la règle 13.2."
+  },
+  {
+    "title": "CORNERS",
+    "word": "Tir direct",
+    "definition": "Le ballon peut être tiré directement sur le but : • à la suite d'un coup franc lorsque le joueur, le ballon et la faute se trouvent à l'extérieur de la ligne des 6 mètres ; • sur un tir de Pénalty ; • sur corner (Décrit dans 7.2)."
+  },
+  {
+    "title": "REMISE EN JEU PAR CHANDELLE D’ARBITRE",
+    "word": "Chandelle d’arbitre « Entre deux »",
+    "definition": "Méthode de mise en jeu du ballon lorsqu'aucune équipe est en possession du ballon. L'arbitre fait reprendre le jeu en lançant le ballon dans le champ de jeu entre deux joueurs adverses, en donnant à chacun une chance égale de récupérer le ballon."
+  },
+  {
+    "title": "TIRS DE PENALTY",
+    "word": "Pénalty",
+    "definition": "Un tir libre vers le but depuis la ligne des 5 mètres, défendu uniquement par le gardien de but. Le gardien de but en défense doit être placé sur la ligne de but entre les poteaux et peut s'avancer après que l'arbitre a donné le signal du tir. Les défenseurs ne peuvent pénétrer dans la zone des 6 mètres qu'après que le ballon a quitté la main du tireur."
+  },
+  {
+    "title": "FAUTES PERSONNELLES",
+    "word": "Faute personnelle",
+    "definition": "Faute individuelle enregistrée contre un joueur, lorsque l'arbitre accorde une exclusion ou une faute de Pénalty."
+  },
+  {
+    "title": "AUTRES OBSERVATIONS ET CLARIFICATIONS",
+    "word": "Transition",
+    "definition": "La phase de jeu où une équipe passe de l'attaque à la défense ou de la défense à l'attaque."
+  },
+  {
+    "title": "AUTRES OBSERVATIONS ET CLARIFICATIONS",
+    "word": "Joueur attaquant",
+    "definition": "Joueur dont l'équipe est en possession du ballon ; l'équipe contrôle le ballon et a la possibilité de marquer un but."
+  },
+  {
+    "title": "AUTRES OBSERVATIONS ET CLARIFICATIONS",
+    "word": "Joueur défenseur",
+    "definition": "Joueur dont l'équipe ne contrôle pas le ballon et n'en a pas la possession ; joueur qui tente de défendre le but de son équipe."
+  }
+]

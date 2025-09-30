@@ -1,8 +1,782 @@
 [
-    {
-      "title": "Exclusion temporaire",
-      "content": "Un joueur exclu temporairement doit quitter la zone de jeu pour 20 secondes...",
-      "article": "ART. 21"
-    }
-  ]
-  
+  {
+    "title": "CHAMP DE JEU ET EQUIPEMENT",
+    "content": "Les caractéristiques du champ de jeu, buts, ballons et autres équipements doivent être en conformité avec l’annexe 4.",
+    "article": "1.1"
+  },
+  {
+    "title": "CHAMP DE JEU ET EQUIPEMENT",
+    "content": "La distance entre les lignes de but est fixée à 25 mètres pour les matches masculins et féminins.",
+    "article": "1.2"
+  },
+  {
+    "title": "CHAMP DE JEU ET EQUIPEMENT",
+    "content": "Une « zone de remplacement volant » doit être disponible, à l’extérieur de la limite latérale du champ de jeu, du côté du bassin où sont situés les bancs des équipes. Cette zone doit être d’une largeur minimum de 0,50 m – 1,00 m. Les « zones de remplacement volant » spécifiées pour chaque équipe, seront comprises entre la ligne de but devant le banc et le milieu du champ de jeu.",
+    "article": "1.3"
+  },
+  {
+    "title": "CHAMP DE JEU ET EQUIPEMENT",
+    "content": "La largeur de la zone de rentrée sera réduite au 1/10ième de la largeur du champ de jeu si celle-ci est de moins de 14 mètres.",
+    "article": "FRBN 1."
+  },
+  {
+    "title": "CHAMP DE JEU ET EQUIPEMENT",
+    "content": "La \"zone de remplacement volant\" ne sera appliquée en Belgique que dans le SL et la Coupe de Belgique A pour les équipes à domicile et dès les 1/2 finales.",
+    "article": "FRBN 2."
+  },
+  {
+    "title": "CHAMP DE JEU ET EQUIPEMENT",
+    "content": "La largeur maximale de la piscine doit être utilisée pour la largeur du terrain de jeu. Les exceptions ne seront autorisées qu'avec l'approbation de la CONWP.",
+    "article": "FRBN 3."
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Lors des compétitions de World Aquatics ou de toute autre compétitions qualificative pour une compétition de World Aquatics, la liste de départ de chaque équipe doit comprendre un maximum de 14 joueurs éligibles. Cette liste de départ doit comprendre un maximum de douze joueurs de champ et un maximum de deux gardiens de but. Chaque équipe doit avoir au moins un gardien de but sur sa liste de départ. Même si une équipe n'a qu'un seul gardien, le nombre maximum de joueurs de champ reste fixé à 12. Le gardien doit porter un bonnet rouge, car le bonnet rouge confère au joueur les privilèges d'un gardien de but. Une équipe doit commencer le match avec sept joueurs, dont un gardien de but. Après le début du match, une équipe n'est pas obligée d'avoir un gardien dans l'eau et peut à la place avoir sept joueurs de champ. Si, à un moment donné, une équipe n'a pas de joueurs de champ autorisés à jouer, le gardien de but ou le gardien remplaçant peut jouer en tant que joueur de champ. Inversement, si une équipe ne dispose pas de gardiens de but ayant le droit de jouer, un joueur de champ peut jouer en tant que gardien de but, à condition de porter un bonnet rouge portant le numéro qu'il utilisait en tant que joueur.",
+    "article": "2.1"
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "S'il n'y a pas de deuxième gardien, il n'y aura pas de bonnet n°13 rouge ou de couleur de l’équipe et, par conséquent, seuls 13 joueurs seront autorisés à jouer. Le 13e joueur portera le bonnet n° 14. Les gardiens porteront les bonnets n° 1 et 13 rouges.",
+    "article": "FRBN 4."
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Tous les joueurs qui ne participent pas au match à ce moment-là, ainsi que les entraîneurs et les officiels, à l'exception de l'entraîneur principal, doivent s'asseoir sur le banc de l'équipe et ne doivent pas s'éloigner du banc dès le début du match, sauf en cas de remplacement, pendant les intervalles entre les périodes ou pendant les temps morts. L'entraîneur principal de l'équipe attaquante peut se déplacer vers la ligne des 6 mètres à tout moment. Les équipes ne peuvent changer de côté et de banc qu'à la mi-temps. Les bancs des équipes doivent être situés du côté opposé à la table des officiels.",
+    "article": "2.2"
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Dans les piscines avec petite profondeur (inférieure à 1m80) d’un côté, les équipes effectueront le changement de côté après chaque période.",
+    "article": "FRBN 5."
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Sur le banc, prendront place un maximum de sept joueurs de réserve avec leur bonnet attaché, un entraîneur, un entraîneur-adjoint et un soigneur à l’exclusion de toute autre personne.",
+    "article": "FRBN 6."
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "En plus des 3 officiels certaines équipes disposent de médecins ou kinés. Il ne peut y avoir que 3 officiels sur le banc. Derrière l’équipe et hors de la zone de jeu, 2 sièges peuvent être placés pour les médecins ou kinés. A aucun moment ceux-ci ne peuvent donner d’instructions à l’équipe ou venir au bord du champ de jeu. Ils ne pourront intervenir au bord du champ de jeu qu’en cas de blessure et avec l’accord de l’arbitre. En cas de non-respect de ces instructions, ils seront exclus de la zone de jeu.",
+    "article": "FRBN 7."
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Un « joueur-coach » est en premier lieu « joueur » et en seconde fonction « coach ». Lorsqu’un « joueur-coach » ne participe pas au jeu, il doit rester sur le banc avec les autres joueurs et le bonnet attaché. Il n’est pas autorisé à quitter le banc et à se déplacer jusqu’aux 6 mètres durant le jeu. Il est autorisé à donner ses instructions, organiser les remplacements et demander les time-outs. Durant un time-out, il peut se diriger vers ses joueurs. Lorsqu’un « joueur-coach » participe au jeu, il doit être considéré comme « joueur ». A ce moment, il ne peut pas demander de time-out. La demande de time-out doit venir du banc. S’il n’y a plus aucun joueur sur le banc, il n’est plus possible de demander un temps-mort. Si un « joueur-coach » est exclu pour 3 fautes graves, il doit rester sur le banc, bonnet enlevé, et peut continuer à diriger son équipe comme repris ci-dessus. Un « joueur-coach » sanctionné d’une carte rouge doit quitter la zone de jeu et son équipe ne pourra plus demander de time-out. Comme un « joueur-coach » est d’abord considéré comme « joueur », la carte jaune ne lui sera pas attribuée. En cas de mauvaise conduite sur le banc, il sera directement sanctionné d’une carte rouge. Lorsqu’une équipe se présente avec un « joueur-coach », les arbitres lui feront un rappel de ces instructions avant le début du match.",
+    "article": "FRBN 8."
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Les capitaines doivent être des membres actifs de leurs équipes respectives et, avec l'entraîneur principal, ils sont responsables de la bonne conduite et de la discipline de l'équipe.",
+    "article": "2.3"
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Lorsque le capitaine d’une équipe est exclu définitivement du jeu, un autre joueur sera désigné comme capitaine et les arbitres en seront avertis.",
+    "article": "FRBN 9."
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Les joueurs doivent porter des maillots non transparents ou un slip séparé en dessous et, avant de prendre part au match, ils doivent retirer tous les objets qui risquent de causer des blessures.",
+    "article": "2.4"
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Les joueurs ne doivent pas porter de graisse, d’huile ou toute substance analogue sur le corps qui pourrait fournir un avantage. Si l’arbitre constate avant le début de match l’utilisation d’une telle substance, il doit exiger le retrait immédiat de la substance. Si cette infraction est constatée après le début du match, le joueur concerné est exclu pour le restant du match, et un remplaçant peut entrer immédiatement dans le champ de jeu par la zone de rentrée.",
+    "article": "2.5"
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Si les infractions des règles 2.4 et 2.5 sont constatées après le début du match, le joueur concerné est exclu pour le restant du match, et un remplaçant peut entrer immédiatement dans le champ de jeu par la zone de rentrée la plus proche de sa ligne de but.",
+    "article": "FRBN 10."
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "À tout moment pendant le jeu, un joueur ou un gardien de but peut être remplacé en quittant le champ de jeu par la zone de rentrée propre à chaque équipe. Le remplaçant peut entrer sur le champ de jeu depuis la zone d’exclusion dès que le joueur est visiblement remonté à la surface de l'eau dans la zone d’exclusion. Un remplacement depuis la zone latérale volante est aussi autorisé quand les deux joueurs sont dans l’eau et se touchent les mains hors de l’eau. Le remplacement à partir de la zone latérale volante est également autorisé lorsque le remplaçant pénètre la zone depuis l’arrière du prolongement de la ligne de but. Si un joueur quitte le terrain de jeu par la zone d'exclusion ou quitte la zone de changement volant sans être remplacé, le même joueur sera autorisé à revenir sur le terrain de jeu par la même zone.",
+    "article": "2.6"
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "La \"zone de remplacement volant\" ne sera appliquée en Belgique que dans le SL et la Coupe de Belgique A pour les équipes SL jouant à domicile et dès les 1/2 finales.",
+    "article": "FRBN 11."
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Si le gardien de but ou le gardien remplaçant n'est pas autorisé ou apte à participer, une équipe jouant à sept joueurs est autorisée à jouer avec un gardien remplaçant bénéficiant des privilèges d'un gardien de but. Ce joueur doit porter un bonnet rouge avec le même numéro que celui qu'il portait en tant que joueur de champ. Un gardien de but qui a été remplacé par un joueur remplaçant ne peut jouer à aucune autre position que celle de gardien de but.",
+    "article": "2.7"
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Pour la Belgique, voir FRBN 4.",
+    "article": "FRBN 12."
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Aucun remplacement ne peut avoir lieu, sauf pour saignement ou blessure, entre le moment où l’arbitre accorde un pénalty (sauf pendant un Time-Out) et le moment où celui-ci est exécuté.",
+    "article": "2.8"
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Un remplaçant peut entrer dans le champ de jeu depuis n’importe quel endroit : a) pendant les intervalles entre périodes de jeu, b) après qu’un but ait été marqué, c) pendant un temps mort, d) pour remplacer un joueur qui saigne ou qui est blessé.",
+    "article": "2.9"
+  },
+  {
+    "title": "EQUIPES ET REMPLACANTS",
+    "content": "Dans le cas où un joueur quitte le champ de jeu par un endroit autre que les zones de remplacement mentionnées dans les règles, ce joueur ne pourra pas être sanctionné pour avoir quitté le champ de jeu et il, ou son remplaçant, pourra rentrer dans le champ de jeu depuis sa zone de rentrée seulement avec la permission de l’arbitre. Ce joueur peut également rentrer après un but, un temps-mort ou le début d’une nouvelle période.",
+    "article": "2.10"
+  },
+  {
+    "title": "ARBITRES ET OFFICIELS",
+    "content": "Pour les épreuves de World Aquatics, les officiels doivent se composer de deux arbitres, deux arbitres assistants (juges de but), de chronométreurs et secrétaires et un arbitre assistant vidéo, chacun avec les pouvoirs et fonctions spécifiées en annexe 5 et suivre les procédures spécifiées en annexe 7, si nécessaire.",
+    "article": "3.1"
+  },
+  {
+    "title": "ARBITRES ET OFFICIELS",
+    "content": "Il est recommandé d’avoir un minimum de 3 officiels de table pour tous les matchs. Le « Vidéo Assistant Referee » n’est pas utilisé en Belgique.",
+    "article": "FRBN 13."
+  },
+  {
+    "title": "ARBITRES ET OFFICIELS",
+    "content": "Pour faire respecter les règles, les arbitres doivent exercer un contrôle absolu sur le match et leur autorité sur les joueurs, les officiels des équipes et les spectateurs doit être effective dès leur entrée sur le lieu du match jusqu’à ce qu’ils le quittent.",
+    "article": "3.2"
+  },
+  {
+    "title": "ARBITRES ET OFFICIELS",
+    "content": "Les arbitres ont le pouvoir : (i) d’attribuer ou non une faute ordinaire, d’exclusion ou de Pénalty en fonction de l’avantage ; (ii) d’ordonner l’expulsion de toute personne dont le comportement empêche le bon déroulement du match ; (iii) d’arrêter le match à tout moment si les circonstances empêchent qu’il se termine correctement.",
+    "article": "3.3"
+  },
+  {
+    "title": "ARBITRES ET OFFICIELS",
+    "content": "Les matchs de division SL et SHII ainsi que les matchs de Coupe de Belgique à partir des 1/8 finales seront dirigés par 2 arbitres. Cette règle sera également appliquée lors des finales pour la première place dans les catégories U18 et U16 et dans la compétition des « Dames » (SD), au deuxième tour pour les places 1 à 4. Toutes les autres compétitions seront dirigées par un (1) arbitre.",
+    "article": "FRBN 14."
+  },
+  {
+    "title": "DUREE DU JEU",
+    "content": "La durée du jeu sera de quatre périodes de huit minutes de jeu effectif chacune. Le temps commence à s’écouler au début de chaque période dès qu’un joueur touche le ballon. A tous les signaux d’arrêt, le chronomètre général sera stoppé jusqu’à ce que le ballon soit remis en jeu en quittant la main du joueur qui exécute la remise en jeu appropriée ou lorsque le ballon est touché par un joueur à la suite d’une remise en jeu par chandelle d’arbitre. Le temps maximum de possession du ballon est 28 secondes.",
+    "article": "4.1"
+  },
+  {
+    "title": "DUREE DU JEU",
+    "content": "La durée de jeu des matchs est celle définie dans le « Manuel pour les compétitions officielles de Water-Polo en Belgique ».",
+    "article": "FRBN 15."
+  },
+  {
+    "title": "DUREE DU JEU",
+    "content": "Il y aura un intervalle de deux minutes entre la première et la deuxième période et entre la troisième et la quatrième période et un intervalle de cinq minutes entre la deuxième et la troisième période. Les équipes, comprenant les joueurs, les entraîneurs, les officiels, changeront de côté avant le début de la troisième période.",
+    "article": "4.2"
+  },
+  {
+    "title": "DUREE DU JEU",
+    "content": "Dans les piscines avec petite profondeur (inférieure à 1m80) d’un côté, les équipes effectueront le changement de côté après chaque période.",
+    "article": "FRBN 16."
+  },
+  {
+    "title": "DUREE DU JEU",
+    "content": "La pause de 5 minutes ne s’appliquera que pour les matchs de 4x8 minutes. La pause des autres matchs sera 2 minutes.",
+    "article": "FRBN 17."
+  },
+  {
+    "title": "DUREE DU JEU",
+    "content": "Pour toute compétition de la World Aquatics à l’occasion d’une rencontre pour laquelle un résultat définitif est requis, une séance de tirs de pénalty sera exécutée pour déterminer le résultat comme spécifié dans l’annexe 6.",
+    "article": "4.3"
+  },
+  {
+    "title": "DUREE DU JEU",
+    "content": "Si le match ou une partie du match doit être rejoué alors les buts, les fautes personnelles et les temps morts qui se sont produits pendant le temps à rejouer seront supprimés de la feuille de match, mais les exclusions pour acte de violence, inconduite et toutes exclusions par carton rouge restent enregistrées sur la feuille de match.",
+    "article": "4.4"
+  },
+  {
+    "title": "TEMPS MORTS",
+    "content": "Chaque équipe peut demander deux (2) temps morts par match. Le temps mort dure une minute. Il peut être demandé à tout moment, y compris après un but, mais pas pendant un examen de la VAR, par l’entraîneur de l’équipe en possession du ballon, lequel lance l’appel « temps mort » et adresse au secrétaire ou à l’arbitre le signal correspondant en formant un « T » avec les mains. Une équipe est considérée en possession du ballon lorsque l’un de ses joueurs tient ou nage avec le ballon. Si un temps mort est demandé, le secrétaire ou l’arbitre arrête immédiatement le jeu par un coup de sifflet et les joueurs doivent immédiatement retourner dans leur moitié respective du champ de jeu. La demande de temps mort peut aussi se faire par tout dispositif autorisé lors du match.",
+    "article": "5.1"
+  },
+  {
+    "title": "TEMPS MORTS",
+    "content": "Le jeu reprendra par un coup de sifflet de l’arbitre, par l’équipe en possession du ballon, laquelle met le ballon en jeu sur ou en arrière de la ligne de mi-distance, sauf lorsque le temps mort a été demandé entre le temps que l’arbitre accorde le penalty et l’exécution du penalty, auquel cas son exécution est maintenue.",
+    "article": "5.2"
+  },
+  {
+    "title": "TEMPS MORTS",
+    "content": "Si l’entraîneur de l’équipe en possession du ballon demande un temps mort additionnel auquel l’équipe n’a pas le droit, le jeu doit être arrêté, puis doit reprendre sur une remise en jeu du ballon sur la ligne de mi-distance, effectuée par un joueur de l’équipe adverse.",
+    "article": "5.3"
+  },
+  {
+    "title": "TEMPS MORTS",
+    "content": "Si l’entraîneur de l’équipe qui n’est pas en possession du ballon demande un temps mort, le jeu doit être arrêté et un penalty est accordé à l’équipe adverse. Après avoir demandé un temps mort illégal, l’entraîneur a perdu le droit à un temps mort légal, si toutefois il lui en reste encore.",
+    "article": "5.4"
+  },
+  {
+    "title": "TEMPS MORTS",
+    "content": "A la reprise du jeu après un temps mort, les joueurs peuvent prendre n’importe quelle place dans le champ de jeu, sous réserve de l’application des règles concernant l’exécution du corner ou des tirs de pénalty si le temps mort est demandé entre le moment où l'arbitre accorde un pénalty et le moment où le pénalty est exécuté.",
+    "article": "5.5"
+  },
+  {
+    "title": "DEBUT ET REPRISE DU JEU",
+    "content": "La première équipe figurant sur la liste dans le programme officiel portera les bonnets blancs, ou les bonnets arborant les couleurs de son pays et commencera le match à gauche de la table officielle. L’autre équipe portera des bonnets bleus, ou des bonnets de couleurs contrastées, et commencera le match à droite de la table des officiels.",
+    "article": "6.1"
+  },
+  {
+    "title": "DEBUT ET REPRISE DU JEU",
+    "content": "Au début de chaque période, les joueurs doivent prendre position sur leur ligne de but respective, à environ un mètre les uns des autres et à au moins un mètre des poteaux de but. Il ne peut pas y avoir plus de deux joueurs entre les poteaux de but. Aucune partie du corps d’un joueur ne doit dépasser la ligne de but au niveau de l’eau.",
+    "article": "6.2"
+  },
+  {
+    "title": "DEBUT ET REPRISE DU JEU",
+    "content": "Lorsque les arbitres se sont assurés que les équipes sont prêtes, un arbitre doit donner un coup de sifflet pour commencer, puis relâcher ou lancer le ballon en jeu sur la ligne de mi-distance.",
+    "article": "6.3"
+  },
+  {
+    "title": "DEBUT ET REPRISE DU JEU",
+    "content": "En l’absence d’un dispositif de mise en jeu, le ballon sera lancé sur la ligne du milieu à deux mètres du bord du champ de jeu.",
+    "article": "FRBN 18."
+  },
+  {
+    "title": "DEBUT ET REPRISE DU JEU",
+    "content": "Procédure de début de période : (a) les arbitres se placent à mi-distance entre la ligne du milieu et leur ligne de but ; (b) l’arbitre du côté opposé de la table tend le bras horizontalement ; (c) l’arbitre du côté de la table tend le bras verticalement ; (d) après avoir constaté le bon alignement des joueurs, l’arbitre du côté opposé de la table lève le bras verticalement ; (e) l’arbitre du côté de la table baisse alors le bras et donne simultanément un coup de sifflet pour donner le signal de début de la période.",
+    "article": "FRBN 19."
+  },
+  {
+    "title": "DEBUT ET REPRISE DU JEU",
+    "content": "Lorsqu’un but a été marqué, les joueurs doivent prendre position n’importe où dans leur moitié respective du champ de jeu. Aucune partie du corps d’un joueur ne doit dépasser la ligne de mi-distance au niveau de l’eau. Un arbitre doit donner un coup de sifflet pour reprendre le jeu. Le jeu effectif reprend lorsque le ballon quitte la main d’un joueur de l’équipe n’ayant pas marqué le but. Une remise en jeu non conforme à cette règle devra être recommencée.",
+    "article": "6.4"
+  },
+  {
+    "title": "FAÇON DE MARQUER",
+    "content": "Un but est marqué quand le ballon a entièrement franchi la ligne de but, entre les poteaux de but et sous la barre transversale. La ligne de but est une ligne imaginaire qui s’étend de la face avant d’un poteau de but à l’autre poteau. Un but est marqué lorsque le ballon a complètement franchi la ligne de but et peut être marqué de n’importe où dans le champ de jeu par n’importe quelle partie du corps à l’exception du poing fermé.",
+    "article": "7.1"
+  },
+  {
+    "title": "FAÇON DE MARQUER",
+    "content": "Un but peut également être marqué : a) au début ou au recommencement du match, après qu’au moins deux joueurs (de l’une ou l’autre équipe à l’exception du gardien de but défensif) aient joué ou touché intentionnellement le ballon ; b) d’un tir de penalty ; c) si un joueur lance le ballon à la suite de l’exécution d’un coup franc dans son propre but ; d) d’un tir immédiat lors d’une remise en jeu depuis le but, un corner ou un coup franc accordé à l’extérieur des 6 mètres, effectué par un joueur situé à l’extérieur des 6 mètres, à l’exception des reprises après un but, un temps mort, un lancer neutre, après que l’arbitre ait demandé le ballon pour une blessure, le remplacement d’un bonnet ou pour toute autre raison, ou lorsque le ballon quitte le côté du terrain de jeu ; e) par un joueur qui met visiblement le ballon en jeu à partir d’un corner ou à l’extérieur des 6 mètres : (1) après une remise en jeu par le gardien ; (2) après l’engagement ou début de la période ; (3) après un temps mort ou but ; (4) après un remplacement de bonnet ; (5) après une blessure ; (6) après que l’arbitre a demandé le ballon ou demandé une remise en jeu par chandelle ; (7) lorsque le ballon sort hors des limites du champ de jeu ; (8) lors du tir d’un coup franc à l’extérieur des 6 mètres ; (9) pour toute autre cause de retard ; f) par un joueur qui met visiblement le ballon en jeu dans les 6 mètres et nage au-delà des 6 mètres : (1) après une blessure ; (2) après avoir remplacé un bonnet ; (3) après que l’arbitre a réclamé le ballon ou effectué un jet neutre ; (4) lorsque le ballon quitte le côté du terrain de jeu ; (5) après l’exécution d’un coup franc ; (6) après tout autre retard.",
+    "article": "7.2"
+  },
+  {
+    "title": "FAÇON DE MARQUER",
+    "content": "Un but sera marqué si, à l’expiration de la période de 28 secondes ou à la fin d’une période, le ballon est en vol et pénètre dans le but, y compris après avoir rebondi sur l’eau, touché un poteau de but, la barre transversale, le gardien de but ou un autre joueur, sauf en cas de jeu intentionnel, ou lorsque la balle est touchée par un joueur attaquant.",
+    "article": "7.3"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Il y a faute ordinaire pour l’une des infractions ci-après (8.2 à 8.15), laquelle sera sanctionnée par l’attribution d’un coup franc à l’équipe adverse, sauf disposition contraire au règlement.",
+    "article": "8.1"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Avancer au-delà de la ligne de but au début d’une période, avant que l’arbitre ait donné le signal du départ. Le coup franc est joué là où se trouve le ballon ou, si le ballon n’a pas été lancé dans le champ de jeu, depuis la ligne de mi-distance.",
+    "article": "8.2"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Aider un joueur au début d’une période ou à n’importe quel moment du match.",
+    "article": "8.3"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Se tenir ou s’élancer depuis les poteaux de but ou les barres qui les maintiennent, se tenir ou s’élancer depuis les bords ou les extrémités du bassin pendant le jeu effectif, ou au début d’une période.",
+    "article": "8.4"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Prendre une part active au jeu en ayant pied sur le fond du bassin, marcher pendant le jeu ou sauter du fond du bassin pour jouer le ballon ou intervenir sur un adversaire. Cette règle ne s’applique pas au gardien de but dans sa zone des 6 mètres.",
+    "article": "8.5"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Enfoncer ou tenir entièrement le ballon sous l’eau quand on est attaqué ou le cacher délibérément à l’équipe adverse.",
+    "article": "8.6"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Frapper le ballon avec le poing fermé sauf pour le gardien de but dans sa zone des 6 mètres.",
+    "article": "8.7"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Jouer ou toucher le ballon des deux mains en même temps, sauf pour le gardien de but dans la zone des 6 mètres.",
+    "article": "8.8"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Pousser ou repousser un adversaire qui ne tient pas le ballon.",
+    "article": "8.9"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Pour un attaquant, être dans la zone de but de l’équipe adverse sauf lorsqu’il se trouve en arrière de la ligne du ballon. Ce ne sera pas une infraction si un joueur se trouve à l’intérieur de la ligne des 2 mètres mais à l’extérieur de la zone de but. Tout joueur qui se trouve en arrière de la ligne du ballon peut entrer dans la zone de but pour recevoir le ballon. Tout joueur se trouvant à l’intérieur de la zone de but qui ne tire pas mais fait une passe en arrière doit immédiatement quitter la zone de but pour éviter d’être sanctionné en vertu de cette règle.",
+    "article": "8.10"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Jouer un coup franc, une remise en jeu pour sortie de but, un corner ou un tir de Penalty autrement que dans la manière prescrite sauf dans les circonstances prévues dans 12.2 et 13.4.",
+    "article": "8.11"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Rester en possession du ballon sans tirer au but pendant plus de 28 secondes de jeu effectif. Les limites de temps spécifiques pour qu'une équipe reste en possession du ballon sans tirer au but sont : (a) après un rebond sur le but ou sur le gardien, le chrono repart seulement quand le ballon est en possession ; remise à 18 secondes si c'est l'équipe attaquante qui récupère, à 28 secondes si c'est la défense ; (b) quand la défense prend possession du ballon, remise à 28 secondes ; (c) quand une exclusion est sifflée contre la défense, remise à 18 secondes sauf s'il reste plus de 18 secondes ; (d) après un penalty ou corner sans changement de possession, remise à 18 secondes ; (e) après un jet de but, un jet neutre ou tout changement de possession consécutif, remise à 28 secondes. Les chronomètres visibles doivent indiquer le temps en décroissant.",
+    "article": "8.12"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Dans une situation de rebond comme repris dans 8.12 (a), le chronométreur mettra le chrono à 28 secondes au moment du shoot et à nouveau à 28 ou 18 secondes au moment où un joueur prend possession du ballon.",
+    "article": "FRBN 20."
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Pour une équipe de renoncer délibérément à la possession du ballon.",
+    "article": "8.13"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Pour simuler une faute commise par l'adversaire.",
+    "article": "8.14"
+  },
+  {
+    "title": "FAUTES SIMPLES",
+    "content": "Aller sous l’eau pour prendre un avantage de position.",
+    "article": "8.15"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Commettre l’une des fautes suivantes (9.4 à 9.18), est une faute d’exclusion (sauf dispositions des cas contraires aux règles) du joueur fautif et l’octroi d’un coup franc pour l’équipe adverse.",
+    "article": "9.1"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Un joueur exclu, y compris un joueur exclu pour le reste du match, doit immédiatement quitter le champ de jeu à n’importe quel endroit, sans sortir de l’eau et se diriger vers la zone d’exclusion la plus proche de sa propre ligne de but sans interférer avec le jeu (en remontant visiblement à la surface de l’eau).",
+    "article": "9.2"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Le joueur exclu ou un remplaçant est autorisé à revenir sur le terrain depuis la zone d’exclusion la plus proche de sa propre ligne de but dès que possible dans les cas suivants : a.) 18 secondes de jeu effectif se sont écoulées, à partir duquel le secrétaire lèvera le drapeau approprié, ou à l'aide de tout dispositif autorisé pour le jeu signalant que les 18 secondes de jeu effectif se sont écoulées ; b.) un but a été marqué ; le joueur exclu ou son remplaçant est autorisé à rentrer dans le champ de jeu de n’importe quel endroit ; c.) l’équipe à laquelle appartient le joueur exclu a repris possession du ballon durant le jeu effectif, instant à partir duquel l’arbitre défensif autorise la rentrée du joueur d’un signal de la main ; d.) l’équipe du joueur exclu bénéficie un coup franc ou une remise en jeu par le gardien, ou un pénalty. Le joueur exclu ou un remplaçant n’est pas autorisé à : (i) sauter ou se repousser du côté ou le mur du bassin ou du champ de jeu ; (ii) affecter l’alignement du but ; (iii) rentrer à la place d’un joueur exclu tant que le joueur n’a pas atteint la zone d’exclusion la plus proche de sa propre ligne de but, sauf entre les périodes, après un but ou pendant un temps mort. Ces dispositions doivent aussi s’appliquer à l’entrée d’un remplaçant lorsque le joueur exclu a reçu trois fautes personnelles ou a été exclu pour le restant du match conformément au Règlement.",
+    "article": "9.3"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Un joueur quittant l'eau (sauf après l'entrée d'un joueur remplaçant) ou s'asseyant ou se tenant sur les marches ou le côté du bassin pendant le jeu, sauf en cas d’accident, de blessure, de maladie ou avec la permission d’un arbitre. Un joueur exclu qui sort de l’eau (autre qu’à la suite de l’entrée d’un remplacent) est considéré comme coupable d’une infraction selon la règle 9.13 (inconduite).",
+    "article": "9.4"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Gêner l’exécution d’un coup franc, d’une remise en jeu par le gardien ou d’un corner, comprenant : a) le fait de lancer intentionnellement le ballon ou ne pas le lâcher pour empêcher le déroulement normal du jeu ; b) toute tentative de jouer le ballon avant qu’il ne quitte la main du lanceur. Note : Un joueur ne doit pas être sanctionné d'après cette règle s'il n'entend pas le sifflet parce qu'il est sous l'eau. Les arbitres doivent déterminer si les actions du joueur sont intentionnelles. L'interférence avec un lancer de ballon peut se produire indirectement lorsque le ballon est gêné, retardé ou empêché d'atteindre le joueur qui doit le lancer, ou cela peut avoir lieu lorsque l'exécution du lancer est entravée par un adversaire bloquant la direction du tir ou en gênant le mouvement réel du lanceur ou par un opposant commettant une faute suivant 8.2. Pour l'interférence avec un penalty, voir aussi 9.16.",
+    "article": "9.5"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Tenter de bloquer une passe ou un tir avec les deux mains hors de la zone des 6 mètres.",
+    "article": "9.6"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Éclabousser intentionnellement le visage d’un adversaire. Note : L'action d'éclabousser est fréquemment utilisée comme une tactique déloyale, mais elle n'est souvent pénalisée que dans la situation évidente où les joueurs se font face. Mais, cela peut aussi se produire de manière moins évidente lorsqu'un joueur produit un rideau d'eau avec son bras, apparemment sans intention délibérée, dans une tentative de bloquer la vue de l'adversaire qui va tirer au but ou faire une passe. La sanction pour l'action d'éclabousser volontairement un adversaire est l'exclusion selon 9.7, ou un penalty selon 10.2 si l'adversaire est à l'intérieur de la zone des 6 mètres et essaie de tirer au but. Le fait d'accorder un penalty ou une exclusion est déterminé uniquement par le positionnement et les actions du joueur attaquant ; le fait que le joueur en infraction soit ou non à l'intérieur de la zone des 6 mètres n'est pas un facteur décisif.",
+    "article": "9.7"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Gêner ou entraver le libre mouvement d’un adversaire qui ne tient pas le ballon, y compris nager sur les épaules, sur le dos ou sur les jambes d’un adversaire ou aller sous l’eau pour obstruer la position de l'adversaire. « Tenir » le ballon signifie le soulever, le porter ou le toucher, mais ne comprend pas dribbler le ballon. Note : Cette règle peut également être appliquée pour avantager l’équipe qui attaque. Si une contre-attaque se produit et qu’une faute est commise limitant l’attaque, le défenseur doit être exclu. La première chose à déterminer par l'arbitre est de savoir si le joueur tient le ballon ; s'il le tient, l'adversaire qui le charge ne peut être pénalisé pour « gêne ». Il est clair qu'un joueur tient le ballon s'il le tient au-dessus de l'eau ; le joueur tient aussi le ballon s'il nage avec le ballon dans sa main ou a le contact avec le ballon alors qu'il est sur la surface de l'eau (dribbler n'est pas considéré comme tenir le ballon). Cette règle peut également être appliquée pour avantager l’équipe qui attaque. Si une contre-attaque se produit et qu’une faute est commise en dehors de la zone des 6 mètres limitant l’attaque, le défenseur doit être exclu. La gêne courante consiste pour le joueur à nager en travers des jambes de son adversaire, réduisant ainsi la vitesse à laquelle celui-ci peut se déplacer et interférant avec le mouvement normal des jambes de l'adversaire. Une autre façon de gêner est de nager sur les épaules de l'adversaire. Il faut aussi rappeler que la gêne peut aussi être commise par le joueur qui est en possession du ballon (ex. repousser de la tête ou bloquer intentionnellement l’adversaire avec le corps et les bras).",
+    "article": "9.8"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Tenir, enfoncer ou tirer en arrière un adversaire qui ne tient pas le ballon. Note : L'application correcte de cette règle est très importante pour la représentation du match et pour arriver à un résultat correct et juste. Le libellé de la règle est clair et explicite et ne peut être interprété que d'une seule manière : tenir, enfoncer ou tirer en arrière un adversaire qui ne tient pas le ballon est une faute d'exclusion. Il est essentiel que les arbitres appliquent cette règle correctement sans interprétation arbitraire personnelle, afin de s'assurer que les limites du jeu violent ne sont pas dépassées. De plus, les arbitres doivent noter qu'une infraction à la règle 9.9 dans la zone des 6 mètres, empêchant un but probable, doit être sanctionnée par un penalty.",
+    "article": "9.9"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "N’importe où dans le champ de jeu, utiliser les deux mains pour tenir un adversaire qui ne tient pas le ballon.",
+    "article": "9.10"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Faute Tactique. A tout endroit du champ de jeu, pour un défenseur, commettre une faute sur n’importe quel joueur de l’équipe en possession du ballon avec l’intention d’arrêter le flux de l’attaque. Ce type de faute est appelé « faute tactique ».",
+    "article": "9.11"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Faire des mouvements disproportionnés, y compris donner des coups de pied ou frapper. Note : L'infraction que représente le fait de donner des coups de pied ou de frapper peut prendre nombre de formes différentes, y compris en étant commise par un joueur en possession du ballon ou par un joueur adverse ; la possession du ballon n'est pas un facteur décisif. Ce qui est important est l'action du joueur fautif, y compris s'il fait des mouvements disproportionnés dans le but de donner des coups de pied ou de frapper, même s'il ne réussit pas à avoir le contact. Un des plus sérieux actes de violence consiste à donner des coups de coude en arrière (figure 19), ce qui peut entraîner une blessure grave de l'adversaire. De même, une blessure grave peut se produire lorsqu'un joueur donne volontairement un coup de tête en arrière dans le visage d'un adversaire qui le marque de près. Dans ces circonstances, l'arbitre peut aussi prendre une sanction justifiée conformément à la règle 9.14 (brutalité), plutôt qu'à la règle 9.12.",
+    "article": "9.12"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Être coupable d’inconduite, y compris l’utilisation de langage inacceptable, de jeu agressif, de refus d’obéissance ou de manque de respect envers un arbitre ou un officiel, ou avoir un comportement contraire à l’esprit des règles susceptible de jeter un discrédit sur le jeu.",
+    "article": "9.13"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Si cela se produit pendant le jeu, le joueur fautif sera exclu pour le restant du match avec replacement après la première occasion mentionnée en 9.3 et doit quitter la zone de compétition.",
+    "article": "9.13.1"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Si cela se produit pendant l’intervalle entre les périodes, pendant un temps mort ou après un but, le joueur fautif sera exclu pour le restant du match et un remplaçant sera autorisé à rentrer immédiatement avant la remise en jeu et le match recommence d’une façon normale.",
+    "article": "9.13.2"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Lorsqu’un ou plusieurs joueurs d’une équipe persistent en répétant des fautes autres que le jeu agressif, d’inconduite, de protestation envers les décisions des arbitres ou des officiels, sans l’utilisation d’un langage inacceptable, l’arbitre peut attribuer un carton jaune à l’équipe fautive. Si cela continue, l’arbitre délivrera au joueur fautif de la même équipe un carton rouge excluant celui-ci pour le reste du match en vertu de la règle 9.13 (Inconduite).",
+    "article": "9.13.3"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Commettre un acte de violence ; y compris donner des coups de pied, frapper ou essayer de donner des coups de pied ou de frapper avec une intention malveillante contre un adversaire ou un officiel, que ce soit pendant le jeu proprement dit, pendant les arrêts de jeu, les temps morts, après qu’un but a été marqué ou pendant un intervalle entre les périodes de jeu. Si le joueur fautif est le gardien de but, le gardien de but remplaçant sera remplacé par un autre joueur en accord avec la règle 2.6.",
+    "article": "9.14"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Si cela se produit durant le match, le joueur fautif sera exclu pour le restant du match et devra quitter la zone de compétition, et un penalty sera accordé à l’équipe adverse. Le joueur fautif peut être remplacé après quatre (4) minutes de jeu effectif.",
+    "article": "9.14.1"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Si l’incident se produit pendant un arrêt, un temps mort, après un but ou un intervalle entre les périodes de jeu, le joueur sera exclu pour le restant du match et devra quitter la zone de compétition. Aucun tir de pénalty ne sera accordé. Le joueur fautif peut être remplacé après quatre (4) minutes de jeu effectif, et le jeu reprendra normalement.",
+    "article": "9.14.2"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Si les arbitres signalent des actes de violence simultanés sur des joueurs d’équipes opposées pendant le match, les deux joueurs seront exclus pour le restant du match avec remplacement après quatre (4) minutes de jeu effectif. L’équipe en possession du ballon tirera d’abord le pénalty, l’autre équipe tirera à son tour. Après le deuxième tir de pénalty, l’équipe qui était en possession du ballon reprendra le jeu avec un coup franc sur ou en arrière de la ligne de mi-distance.",
+    "article": "9.14.3"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Dans le cas d’exclusions simultanées de joueurs d’équipes opposées pendant le match, les deux joueurs sont exclus pendant 18 secondes jusqu’au premier évènement signifié dans la règle 9.3 ou au prochain changement de possession du ballon. Le chronomètre du temps de possession de 28 secondes ne doit pas être réinitialisé et le jeu reprend par un coup franc en faveur de l’équipe qui avait la possession du ballon. Si aucune équipe n’était en possession lorsque les exclusions simultanées ont été sifflées, le chronomètre du temps de possession de 28 secondes doit être réinitialisé, et le jeu reprendra par chandelle d’arbitre. Les deux joueurs exclus selon cette règle seront autorisés à rentrer à la prochaine occasion mentionnée à la règle 9.3 ou au prochain changement de possession. Note: Si deux joueurs ont été exclus conformément à cette règle et qu’ils ont le droit de rentrer, l'arbitre défensif peut faire un signal au joueur dès que ce joueur est prêt à rentrer. L'arbitre n'a pas à attendre que les deux joueurs soient tous les deux prêts à revenir en jeu.",
+    "article": "9.15"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Gêner l’exécution d’un penalty. Le joueur fautif doit être exclu pour le restant du match avec remplacement après la première occasion mentionnée à la règle 9.3 et le pénalty doit être maintenu ou rejoué selon le cas. Les arbitres peuvent utiliser la VAR pour vérifier s’il y a eu interférence au moment du tir de pénalty. Cette faute peut survenir avant le tir de pénalty ou après le coup de sifflet de l’arbitre. Note : La forme d'interférence la plus commune sur l’exécution d’un penalty consiste pour un opposant à donner un coup de pied en direction du joueur jouant le penalty, au moment où celui-ci va l'exécuter. Il est essentiel pour les arbitres de s'assurer que tous les joueurs sont au moins à 3 mètres du tireur, et hors de la zone des 6 mètres, pour éviter une telle interférence. L'arbitre devrait aussi autoriser l'équipe défensive à prendre position en priorité.",
+    "article": "9.16"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Pour le gardien de but de la défense, ne se place pas correctement sur la ligne de but lors de l’exécution d’un tir de pénalty, après en avoir reçu l’ordre une fois par l’arbitre. Un autre joueur de l’équipe défensive peut prendre la position du gardien de but, mais sans ses privilèges et ses limitations.",
+    "article": "9.17"
+  },
+  {
+    "title": "FAUTES D’EXCLUSION",
+    "content": "Si, lors de l'exécution du pénalty, le gardien de but se déplace vers l'avant avant que l'arbitre ne siffle, que le joueur tire et que le but n'est pas marqué, le gardien de but est exclu conformément à la règle 9.17 et le pénalty est à nouveau exécuté.",
+    "article": "9.18"
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "content": "La faute de penalty s’applique aux infractions suivantes (règles 10.2 à 10.12), qui doivent être sanctionnées par l’attribution d’un penalty à l’équipe adverse. L’arbitre peut retarder son coup de sifflet et attendre de voir si l’attaquant marque un but dans la même action. Si ce joueur ne marque pas de but, l’arbitre peut accorder un penalty. L’arbitre peut lever un bras pour indiquer un possible penalty.",
+    "article": "10.1"
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "content": "Pour un gardien de but ou tout défenseur commettre toute faute dans la zone des 6 mètres si un but aurait probablement été marqué, y compris dans les règles 10.4 à 10.7. Note: Il est important de noter que, si les fautes décrites ci-dessus et les autres fautes comme tenir, repousser, gêner, etc., sont normalement sanctionnées par un coup franc (et exclusion s'il y a lieu), elles deviennent des fautes de penalty si elles sont commises dans la zone des 6 mètres par un joueur de la défense et si un but aurait probablement été marqué sans la faute.",
+    "article": "10.2"
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "content": "Pour un joueur exclu, interférer intentionnellement dans le jeu, y compris en affectant l’alignement du but. Si le joueur exclu ne commence pas à quitter le champ de jeu presque immédiatement, l’arbitre peut considérer qu’il s’agit d’une interférence intentionnelle en vertu de la présente règle.",
+    "article": "10.3"
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "content": "Pour un gardien de but ou un défenseur abaisser ou déplacer d’une quelconque façon le but.",
+    "article": "10.4"
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "content": "Dans la zone des 6 mètres, pour un défenseur, tenter de bloquer un tir ou une passe avec les deux mains.",
+    "article": "10.5"
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "content": "Dans la zone des 6 mètres, pour un défenseur, jouer le ballon avec un poing fermé.",
+    "article": "10.6"
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "content": "Dans la zone des 6 mètres, pour un gardien de but ou un défenseur, mettre le ballon sous l’eau lorsqu’il est attaqué.",
+    "article": "10.7"
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "content": "Pour un joueur ou un remplaçant qui n’est pas autorisé par les règles à participer au jeu à ce moment, à entrer dans le champ de jeu. Le pénalty est exécuté après que le joueur fautif a été exclu du jeu, y compris par un remplaçant immédiat, si nécessaire.",
+    "article": "10.8"
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "content": "Pour l’entraîneur ou tout officiel de l’équipe qui n’est pas en possession du ballon, demander un temps mort. Aucune faute personnelle n’est enregistrée pour une telle infraction.",
+    "article": "10.9"
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "content": "Pour l’entraîneur ou tout officiel de l’équipe ou tout joueur agir d’une quelconque manière propre à empêcher un but probable ou retarder le jeu, y compris : a) Pour un défenseur repousser délibérément le ballon pour empêcher l’exécution d’un coup franc par l’équipe attaquante b) Pour un défenseur, après l’attribution d’un coup franc accordé à l’extérieur des 6 mètres, pousser délibérément le ballon à l’intérieur de la zone des 6 mètres pour empêcher un tir direct. Aucune faute personnelle n’est enregistrée pour une telle infraction pour l’entraîneur ou l’officiel d’équipe.",
+    "article": "10.10"
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "content": "Pour un défenseur, gêner un attaquant par derrière, à l’intérieur de la zone des 6 mètres, quand l’attaquant est face au but, et fait action de tirer au but, sauf si le défenseur ne touche que le ballon. Si la faute du défenseur, décrite dans cette règle, empêche l’attaquant de marquer un but, un penalty doit être accordé. L’arbitre peut retarder l’attribution du pénalty jusqu’à ce que le tir ou la tentative de tir soit terminé et peut attribuer un pénalty sauf si l’attaquant a marqué le but.",
+    "article": "10.11"
+  },
+  {
+    "title": "FAUTES DE PENALTY",
+    "content": "Si un joueur exclu revient sur le terrain de jeu ou si un remplaçant entre sur le terrain de façon irrégulière, notamment en ne respectant pas les règles 2.6, 2.7, 9.3, 9.13.1, 9.14.1, 9.14.2, 9.14.3 et 9.15 de la sixième partie, ce joueur ne reçoit qu'une seule faute personnelle qui doit être consignée par le secrétaire comme une faute de pénalty. Si cela se produit lors d'une (ré)entrée après une exclusion alors que la période d'exclusion n'a pas encore expiré, le joueur fautif doit quitter le terrain de jeu avant que le pénalty ne soit exécuté. Le joueur ou un remplaçant sera autorisé à (ré)entrer après l'expiration de la période d'exclusion ou lorsque l'équipe du joueur exclu aura repris possession du ballon ou qu'un coup franc, une remise en jeu par le gardien ou un pénalty aura été accordé, sauf dans les circonstances prévues à la règle 9.14, auquel cas le joueur ou un remplaçant ne pourra (ré)entrer qu'après l'expiration de la période d'exclusion.",
+    "article": "10.12"
+  },
+  {
+    "title": "COUPS FRANCS",
+    "content": "Un coup franc doit être exécuté à l’endroit où se trouve le ballon, sauf si à la suite de la faute commise par un défenseur, le ballon se trouve à l’intérieur dans sa propre zone de but. Dans ce cas, le coup franc est joué sur la ligne des 2 mètres à l’opposé de l’endroit où le ballon se trouve. Si le ballon est à l’extérieur de la zone de but au moment où la faute est accordée, le coup franc se joue à l’endroit où se trouve le ballon.",
+    "article": "11.1"
+  },
+  {
+    "title": "COUPS FRANCS",
+    "content": "Un joueur bénéficiant d’un coup franc doit mettre le ballon en jeu sans délai superflu, y compris en faisant une passe ou en tirant, si les règles du jeu l’autorisent. Il y a faute ordinaire si un joueur qui est clairement en position la plus adéquate pour jouer un coup franc ne le fait pas. Un défenseur ayant commis une faute doit s’éloigner d’au moins un mètre du joueur exécutant le coup franc avant de lever un bras pour bloquer une passe ou un tir; un défenseur ne le faisant pas doit être exclu pour « interférence », conformément à la règle 9.5.",
+    "article": "11.2"
+  },
+  {
+    "title": "COUPS FRANCS",
+    "content": "Le coup franc doit être joué sans délai superflu par le joueur le plus près du ballon de manière à permettre aux autres joueurs de voir le ballon quitter la main du joueur exécutant le coup franc, lequel pourra ensuite porter ou dribbler le ballon avant de le passer à un autre joueur, ou de tirer au but lorsque cela est autorisé. Le ballon sera immédiatement mis en jeu lorsqu’il quitte la main du joueur exécutant le coup franc. Toutefois, en cas de contre-attaque, un joueur n'est pas obligé de renoncer à l'avantage pour aller au ballon et exécuter le coup franc. Le deuxième joueur à proximité du ballon peut exécuter le coup franc tant qu'il n'y a pas de retard injustifié.",
+    "article": "11.3"
+  },
+  {
+    "title": "COUPS FRANCS",
+    "content": "Un coup franc est également accordé contre l’équipe qui a touché en dernier le ballon sorti sur le côté du champ de jeu, (y compris après un rebond sur le côté du champ de jeu) à l’exception du cas où un joueur défenseur bloque un tir et que le ballon sort des limites latérales du champ de jeu, auquel cas un coup franc est accordé à l’équipe défensive.",
+    "article": "11.4"
+  },
+  {
+    "title": "REMISE EN JEU DEPUIS LE BUT",
+    "content": "Une remise en jeu depuis le but sera accordée quand le ballon a entièrement franchi la ligne de but à l’exception de l’espace délimité par des poteaux du but et sous la barre transversale, en ayant été touché en dernier lieu par tout joueur autre que le gardien de but de l’équipe en défense.",
+    "article": "12.1"
+  },
+  {
+    "title": "REMISE EN JEU DEPUIS LE BUT",
+    "content": "La remise en jeu doit être faite conformément à la règle 11.3, sans délai superflu par n’importe quel joueur de l’équipe, de n’importe où dans la zone des 2 mètres, ou à l’endroit où se situe le ballon s’il est à l’extérieur des 2 mètres. Une remise en jeu depuis le but non conforme à cette règle devra être refaite.",
+    "article": "12.2"
+  },
+  {
+    "title": "CORNER",
+    "content": "Un corner sera accordé quand le ballon franchit entièrement la ligne de but, à l’exception de l’espace délimité par des poteaux du but et sous la barre transversale, ayant été en dernier lieu touché par le gardien de but de l’équipe défensive ou lorsqu’un défenseur envoie délibérément le ballon au-delà de la ligne de but.",
+    "article": "13.1"
+  },
+  {
+    "title": "CORNER",
+    "content": "Le corner doit être joué conformément à la règle 11.3, sans délai superflu par un joueur de l’équipe attaquante depuis la marque des deux mètres du côté le plus proche de l’endroit duquel le ballon a traversé la ligne de but. La remise en jeu n’a pas besoin d’être faite par le joueur le plus proche.",
+    "article": "13.2"
+  },
+  {
+    "title": "CORNER",
+    "content": "Lors de l’exécution d’un corner, aucun joueur de l’équipe attaquante ne doit être dans la zone de but.",
+    "article": "13.3"
+  },
+  {
+    "title": "CORNER",
+    "content": "Un corner joué de la mauvaise position, ou avant que les joueurs de l’équipe attaquante n’aient quitté la zone de but, doit être rejoué.",
+    "article": "13.4"
+  },
+  {
+    "title": "REMISE EN JEU PAR CHANDELLE DE L’ARBITRE",
+    "content": "Une remise en jeu par chandelle d’arbitre est accordée : a) lorsqu’au début d’une période, un arbitre pense que le ballon est tombé dans une position qui avantage nettement une équipe ; b) lorsqu’un ou plusieurs joueurs d’équipes adverses commettent une faute ordinaire simultanément rendant impossible aux arbitres de distinguer le premier fautif ; c) lorsque les deux arbitres sifflent au même moment pour accorder des fautes ordinaires aux équipes adverses ; d) si aucune équipe n’est en possession du ballon et qu’un ou plusieurs joueurs d’équipes adverses commettent une faute d’exclusion simultanément. La remise en jeu par chandelle d’arbitre se déroule après l’exclusion des joueurs fautifs ; e) lorsque le ballon heurte un obstacle en l’air ou se loge à l’intérieur de celui-ci.",
+    "article": "14.1"
+  },
+  {
+    "title": "REMISE EN JEU PAR CHANDELLE DE L’ARBITRE",
+    "content": "Pour une remise en jeu par chandelle de l’arbitre, l’arbitre doit lancer le ballon dans le champ de jeu, approximativement dans la position latérale où le fait a eu lieu, de manière que les joueurs des deux équipes aient la même chance d’atteindre le ballon. Une remise en jeu par chandelle de l’arbitre accordée dans la zone de but doit être jouée sur la ligne des 2 mètres.",
+    "article": "14.2"
+  },
+  {
+    "title": "REMISE EN JEU PAR CHANDELLE DE L’ARBITRE",
+    "content": "Si, après sa remise en jeu sur chandelle, l’arbitre pense que le ballon est tombé dans une position à l’avantage manifeste d’une équipe, il doit demander le ballon et refaire la remise en jeu.",
+    "article": "14.3"
+  },
+  {
+    "title": "TIR DE PENALTY",
+    "content": "Un tir de penalty peut être exécuté par n’importe quel joueur de l’équipe à laquelle il a été accordé, depuis n’importe quel point sur la ligne des 5 mètres de l’équipe adverse.",
+    "article": "15.1"
+  },
+  {
+    "title": "TIR DE PENALTY",
+    "content": "Tous les joueurs doivent quitter la zone des 6 mètres et doivent être au moins à trois mètres du joueur qui exécute le tir. Sur la ligne des 6 mètres, de chaque côté du joueur qui exécute le Penalty, un joueur de l’équipe défensive est prioritaire pour prendre la position. Le gardien de but défenseur doit être placé entre les poteaux de but sans qu’aucune partie de son corps ne dépasse de la ligne de but au-dessus de l’eau. Les arbitres peuvent donner un avertissement aux joueurs ou au gardien de but pour qu’ils prennent la bonne position. Si cette personne ne le fait pas, le joueur ou le gardien de but sera exclu et rentrera conformément à la règle 9.3.",
+    "article": "15.2"
+  },
+  {
+    "title": "TIR DE PENALTY",
+    "content": "Quand l’arbitre qui contrôle l’exécution du penalty est convaincu que les joueurs sont correctement positionnés, il doit donner le signal de l’exécution du tir par un coup de sifflet et en abaissant simultanément son bras d’une position verticale à une position horizontale. Note : Le fait d'abaisser le bras en même temps que l'on donne le coup de sifflet permet, dans toutes les circonstances, même au milieu du bruit des spectateurs, d'effectuer le tir conformément au Règlement. Lorsque le bras est levé, le joueur qui effectue le lancer se concentre, car il sait que le coup de sifflet suivra immédiatement.",
+    "article": "15.3"
+  },
+  {
+    "title": "TIR DE PENALTY",
+    "content": "Le joueur qui exécute le tir doit être en possession du ballon et le lancer immédiatement en un mouvement ininterrompu directement vers le but. Le joueur peut effectuer le penalty en soulevant le ballon de l’eau (Fig. 23) ou avec le ballon tenu dans sa main levée (Fig. 24) et le ballon peut être ramené en arrière par rapport à la direction du but pour préparer le lancer en avant, à condition que la continuité du mouvement ne soit pas interrompue avant que le ballon ne quitte la main du tireur. Note: Le Règlement ne prévoit pas d'empêcher un joueur d'exécuter un penalty avec le dos tourné alors qu'il pivote d'un demi-tour ou d'un tour complet.",
+    "article": "15.4"
+  },
+  {
+    "title": "TIR DE PENALTY",
+    "content": "Si le ballon rebondit sur les poteaux de but, sur la barre transversale, ou sur le gardien de but, il reste en jeu et il n’est pas nécessaire qu’un autre joueur joue ou touche le ballon avant que le but soit marqué.",
+    "article": "15.5"
+  },
+  {
+    "title": "TIR DE PENALTY",
+    "content": "Si au moment précis où l’arbitre accorde un penalty, le chronométreur siffle la fin de la période, tous les joueurs, à l’exception du joueur effectuant le penalty et du gardien de but défenseur, quittent le terrain de jeu et se rendent dans les zones de « remplacement volant » respectives avant que le pénalty ne soit exécuté. Dans cette situation, le ballon doit être immédiatement considéré comme « mort » s’il rebondit en jeu après avoir frappé le poteau de but, la barre transversale ou le gardien de but.",
+    "article": "15.6"
+  },
+  {
+    "title": "TIR DE PENALTY",
+    "content": "Si à la dernière minute du match, un penalty est accordé à une équipe, l’entraîneur peut choisir de conserver la possession du ballon et de se voir accorder un coup franc. Le chronométreur enregistrant la durée de possession doit réinitialiser le chronomètre de temps de possession continue du ballon à 28 secondes et le jeu reprendra comme après un Temps Mort. Il est de la responsabilité de l’entraîneur de signifier clairement sans délai si l’équipe souhaite conserver la possession du ballon selon cette règle.",
+    "article": "15.7"
+  },
+  {
+    "title": "FAUTES PERSONNELLES, CARTONS JAUNES ET ROUGES",
+    "content": "Une faute personnelle doit être enregistrée à l’encontre de tout joueur commettant une faute d’exclusion ou une faute de penalty. L’arbitre doit indiquer le numéro du bonnet du joueur fautif au secrétaire.",
+    "article": "16.1"
+  },
+  {
+    "title": "FAUTES PERSONNELLES, CARTONS JAUNES ET ROUGES",
+    "content": "Lorsqu’il reçoit une troisième faute personnelle, un joueur doit être exclu pour le restant du match avec remplacement après la première action mentionnée à la règle 9.3. Si cette troisième faute personnelle est une faute de penalty, l’entrée du remplaçant doit être immédiate.",
+    "article": "16.2"
+  },
+  {
+    "title": "FAUTES PERSONNELLES, CARTONS JAUNES ET ROUGES",
+    "content": "Les arbitres, si nécessaire, peuvent utiliser les cartons jaunes et rouges pour contrôler les officiels de l’équipe et les joueurs remplaçants sur le banc au même titre que les joueurs dans l’eau. L’utilisation des cartons jaunes et rouges s’applique à toutes les compétitions de water-polo de World Aquatics et sera gérée comme suit :",
+    "article": "16.3"
+  },
+  {
+    "title": "FAUTES PERSONNELLES, CARTONS JAUNES ET ROUGES",
+    "content": "L’attribution d’un carton jaune par l’arbitre est un avertissement officiel pour l’entraineur principal.",
+    "article": "16.3.1"
+  },
+  {
+    "title": "FAUTES PERSONNELLES, CARTONS JAUNES ET ROUGES",
+    "content": "L’attribution ultérieure d’un carton rouge par l’arbitre signifie que l’entraîneur principal et/ou les autres officiels de l’équipe et/ou les joueurs sur le banc doivent quitter immédiatement l’enceinte de l’aire de jeu. Si les actions de l’entraîneur principal l’exigent, l’arbitre peut délivrer un carton rouge sans avoir au préalable délivré un carton jaune.",
+    "article": "16.3.2"
+  },
+  {
+    "title": "FAUTES PERSONNELLES, CARTONS JAUNES ET ROUGES",
+    "content": "Lorsque l’entraîneur principal est exclu du match, un autre officiel de l’équipe peut le remplacer, sans pour autant avoir les privilèges de l’entraîneur principal l’officiel de l’équipe n’est pas autorisé à se tenir debout et à s’éloigner du banc, mais peut demander un temps mort conformément aux règles. Pendant un temps mort ou après un but, avant la reprise du jeu, l’officiel de l’équipe peut se déplacer librement le long du bord du champ de jeu jusqu’à la ligne de mi-distance pour donner des instructions à son équipe.",
+    "article": "16.3.3"
+  },
+  {
+    "title": "FAUTES PERSONNELLES, CARTONS JAUNES ET ROUGES",
+    "content": "Pendant le match, lorsqu’un membre de l’équipe commet un acte d’inconduite, dans l’eau, l’arbitre doit montrer un carton rouge au joueur accompagné de la sanction appropriée.",
+    "article": "16.3.4"
+  },
+  {
+    "title": "FAUTES PERSONNELLES, CARTONS JAUNES ET ROUGES",
+    "content": "Un arbitre peut délivrer un carton jaune si, de son point de vue, un joueur persiste à joueur de manière anti-sportive ou se livre à des simulations (règle 8.4). L’arbitre montrera un carton jaune à l’équipe et désignera le joueur fautif. Si ce type de jeu persiste, l’arbitre montrera au joueur un carton rouge, visible à la fois par l’équipe et la table car cela est considéré comme une inconduite (règle 9.13).",
+    "article": "16.3.5"
+  },
+  {
+    "title": "FAUTES PERSONNELLES, CARTONS JAUNES ET ROUGES",
+    "content": "Les membres d’une équipe qui commettent un acte d’inconduite seront sanctionnés selon la règle 9.13 et devront quitter immédiatement l’enceinte du champ de jeu.",
+    "article": "16.3.6"
+  },
+  {
+    "title": "FAUTES PERSONNELLES, CARTONS JAUNES ET ROUGES",
+    "content": "Pour toute infraction susceptible d’entraîner l’exclusion d’un joueur ou d’un officiel de l’équipe pour le restant d’un match, le Comité de Direction du tournoi évaluera toutes les circonstances de l’infraction, en particulier le degré de gravité, et décidera si le joueur ou l’officiel de l’équipe doit être exclu pour des matchs supplémentaires dans ce tournoi dans les 24 heures après la fin de la rencontre avec une notification au joueur, à l’officiel de l’équipe et à l’équipe. Le Comité de Direction soumettra également la question au Comité d’éthique de World Aquatics s’il considère que les conséquences en dehors du tournoi doivent être étudiées. Par souci de clarté, le Comité de Direction a le droit de revoir la vidéo officielle de n’importe quel match du tournoi pour décider si le joueur ou l’entraîneur doit être exclu pour d’autres matchs sur un tournoi que l’infraction ait été sanctionnée ou non par l’arbitre pendant la rencontre. Si un joueur ou un officiel de l’équipe est suspendu pour un match spécifique, l’équipe verra son nombre de joueurs ou d’officiels de l’équipe sur le banc réduit en conséquence à condition qu’il y ait au moins un officiel de l’équipe sur le banc. Si un joueur est suspendu pour un match spécifique, l'équipe peut aligner 14 joueurs pour le(s) match(s) suivant(s), à condition qu'ils soient inscrits sur la liste de l'équipe pour cet événement spécifique de la WA et qu'ils ne soient pas suspendus à ce moment-là.",
+    "article": "16.3.7"
+  },
+  {
+    "title": "ACCIDENT, BLESSURE ET MALADIE",
+    "content": "Un joueur n’a le droit de sortir de l’eau, de s’asseoir ou de se tenir sur les marches ou le bord du bassin, pendant le jeu, qu’en cas d’accident, de blessure ou de maladie, ou avec la permission d’un arbitre. Un joueur qui a quitté l’eau légitimement peut rentrer à partir de la zone d’exclusion de son équipe, lors d’un arrêt approprié, avec la permission d’un arbitre.",
+    "article": "17.1"
+  },
+  {
+    "title": "ACCIDENT, BLESSURE ET MALADIE",
+    "content": "Si un joueur saigne, l’arbitre doit immédiatement le faire sortir de l’eau avec entrée immédiate d’un remplaçant et le jeu doit reprendre sans délai. Une fois le saignement arrêté, le joueur est autorisé à entrer en jeu en tant que remplaçant dans le cadre normal du match.",
+    "article": "17.2"
+  },
+  {
+    "title": "ACCIDENT, BLESSURE ET MALADIE",
+    "content": "En cas d’accident, de blessure ou de maladie autre qu’en cas de saignement, un arbitre peut à sa discrétion suspendre le match brièvement, en ordonnant le remplacement immédiat du joueur blessé, si nécessaire.",
+    "article": "17.3"
+  },
+  {
+    "title": "ACCIDENT, BLESSURE ET MALADIE",
+    "content": "En cas d’arrêt du jeu pour accident, blessure, saignement ou pour tout autre raison imprévue, l’équipe en possession du ballon lors de l’arrêt mettra le ballon en jeu à l’endroit de l’arrêt lorsque le jeu reprendra.",
+    "article": "17.4"
+  },
+  {
+    "title": "ACCIDENT, BLESSURE ET MALADIE",
+    "content": "Si les arbitres soupçonnent qu’un incident d’inconduite, y compris de violence a pu se produire, ils peuvent visionner la vidéo selon le protocole VAR tel qu’expliqué en annexe 7.",
+    "article": "17.5"
+  },
+  {
+    "title": "ACCIDENT, BLESSURE ET MALADIE",
+    "content": "17.5 et 17.6 ne seront pas être appliqués dans le championnat Belge. Le « VAR » ne sera pas appliqué en Belgique.",
+    "article": "FRBN 22."
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Exigences générales",
+    "article": "18.1"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Pour les dimensions et l'équipement du terrain de jeu, voir l'annexe 1.",
+    "article": "18.1.1"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Le terrain de jeu est de 25,00m x 20,00m. Cette disposition s'applique à aux matches masculins et féminins. Le point d'ancrage au bord du terrain de jeu est placé à 30 cm derrière l'avant de la ligne de but.",
+    "article": "18.1.2"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "La profondeur de l'eau est d'au moins 1,80 mètres.",
+    "article": "18.1.3"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "La température de l'eau est comprise de 26°C plus ou moins 1°C (25°C-27°C).",
+    "article": "18.1.4"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "L'intensité lumineuse est d'au moins 600 lux.",
+    "article": "18.1.5"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Une hauteur de plafond minimale n'est pas requise.",
+    "article": "18.1.6"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Lignes  Chaque ligne a un diamètre minimal de 0,06 mètre et un diamètre maximal de 0,12 mètre. Les lignes doivent être attachées à chaque mur à des supports d'ancrage encastrés dans les murs. Si l'ancrage est placé sur le bord de la piscine, il faut utiliser une rallonge solide et non élastique. La ligne utilisée doit rester dans l'eau. L'ancre, y compris la rallonge, ne doit pas dépasser de plus de 10 mm dans la piscine. L'ancre ne doit pas réduire la longueur de la ligne de plus de ± 10 mm à chaque extrémité de la ligne. Les ancres doivent être installées pour résister à 20 kN. La ligne doit être équipée d'un ressort de tension qui absorbe les charges ponctuelles élevées et soudaines et d'un fil qui peut résister à une force de traction de 12 kN.",
+    "article": "18.1.7"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Zone de changement volant  En dehors du terrain de jeu, du côté où se trouvent les bancs des joueurs, une zone pour les remplacements volants doit être disponible. La largeur de cette zone est d'au moins 0,50 mètre. La zone désignée pour les remplaçants volants de chaque équipe se situe entre la ligne de but devant le banc des joueurs et le centre du terrain de jeu.",
+    "article": "18.1.8"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "La « zone de remplacement volant » ne sera appliquée en Belgique qu'en SL et en Coupe de Belgique A pour les équipes SL jouant à domicile et dès les ½ finales. La largeur minimum de la zone de de changement volante sera déterminée dans le « Manuel pour les compétitions officielles de Water-Polo en Belgique ». ",
+    "article": "FRBN 23."
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Matériaux",
+    "article": "18.2"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Marquages : Des marques claires doivent être placées des deux côtés du terrain de jeu pour indiquer les lignes de but, la ligne des 2,0 mètres et la ligne des 6,0 mètres, ainsi que la ligne médiane. Ces marques sont clairement visibles pendant le jeu. La marque blanche est mesurée à partir du point d'ancrage et se trouve à 0,3 mètre, au ras de l'avant du bord de la ligne de but. Elle doit être la même aux deux extrémités du terrain. La marque rouge sur la ligne des 2 mètres est mesurée depuis l'avant de la ligne de but vers le terrain de jeu. Elle doit être la même aux deux extrémités du terrain de jeu. Le marqueur jaune est placé à 4 mètres du marqueur de la ligne des 2 mètres. Un marqueur rouge est placé à 5 mètres de l'avant de la ligne de but. Il doit en être de même aux deux extrémités du terrain de jeu. La partie centrale du terrain de jeu sera verte et devrait être de 13 mètres. Un marqueur blanc sera placé au milieu de la zone verte pour indiquer le centre du terrain. Les zones d'exclusion doivent être placées dans les deux coins opposés à la table officielle. Elles doivent mesurer 2 mètres de long et s'étendre le long de la ligne de but.",
+    "article": "18.2.1"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Plates-formes pour les arbitres  Des plates-formes d'une largeur de 1 mètre et d'une hauteur de 70 cm au-dessus du niveau de l'eau doivent être placées des deux côtés du terrain de jeu. Ces plates-formes permettent aux arbitres de se déplacer librement sur le terrain de jeu. Un espace suffisant doit également être prévu près des lignes de but pour les arbitres assistants. Les plates-formes ont des couleurs correspondant aux spécifications indiquées dans le diagramme du terrain de jeu. Voir l'annexe 2.",
+    "article": "18.2.2"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Buts  Les poteaux de but et la barre transversale sont en bois, en métal ou en matière synthétique (plastique) avec des sections rectangulaires de 80,0 millimètres, d'équerre avec la ligne de but et peints en blanc. Les poteaux de but sont fixés, solides et perpendiculaires à chaque extrémité du terrain de jeu, à égale distance des côtés et à au moins 0,3 mètre en avant des extrémités du terrain de jeu ou de tout autre obstacle. Il est interdit au gardien de se tenir debout ou de se reposer ailleurs que sur le fond de la piscine. Les côtés intérieurs des poteaux de but doivent être distants de 3,0 mètres. Le dessous de la barre transversale se trouve à 0,9 mètre au-dessus de la surface de l'eau.",
+    "article": "18.2.3"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Zone de remplacement  La zone de changement rectangulaire des joueurs a les dimensions suivantes : 2,0 mètres sur 1,08 mètre.",
+    "article": "18.2.4"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Filets  Les filets doivent entourer toute la surface de but et être fixés aux poteaux de manière à laisser un espace libre d'au moins 0,30 mètre derrière la ligne de but, partout dans le but.",
+    "article": "18.2.5"
+  },
+  {
+    "title": "EQUIPEMENT DE WATER-POLO",
+    "content": "Table du jury  Le secrétariat du match est assis à une table derrière les arbitres.",
+    "article": "18.2.6"
+  }
+]

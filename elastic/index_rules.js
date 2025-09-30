@@ -9,7 +9,8 @@ const client = new Client({
 });
 
 async function indexRules() {
-  const rules = JSON.parse(fs.readFileSync('rules.json')); // Crée un fichier rules.json avec les règles
+  const rules = JSON.parse(fs.readFileSync('rules.json'));
+  const defs = JSON.parse(fs.readFileSync('definitions.json'));
 
   for (const rule of rules) {
     await client.index({
@@ -23,6 +24,19 @@ async function indexRules() {
   }
 
   console.log('Règles indexées avec succès !');
+
+  for (const def of defs) {
+    await client.index({
+      index: 'waterpolo-definitions',
+      body: {
+        title: def.title,
+        word: def.word,
+        definition: def.definition
+      }
+    });
+  }
+
+  console.log('Définitions indexées avec succès !');
 }
 
 indexRules().catch(console.error);
